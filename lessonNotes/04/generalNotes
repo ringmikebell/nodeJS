@@ -1,0 +1,21 @@
+// global objects
+
+- when writing JS in a browser, window is the global object we get properties and methods from alert, scroll, setTimeout, etc.
+
+
+- in Node, window is no longer the global object because you're not in a browser any more.  the new global object IS  "global".  https://nodejs.org/api/globals.html  can access these anywhere in a node project.
+
+
+- use " node app " in console to run app.js file in folder.
+
+- does not need to be app.js… can be bobsJSFile.js - type “ node bobsJSFile “
+
+
+
+
+
+
+
+
+
+
